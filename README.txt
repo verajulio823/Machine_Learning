@@ -1,0 +1,3 @@
+-En la carpeta Data se encontraran los datos, de clasificación de vino rojo y vino blanco, asi mismo la data de Pibap que son bacterias
+-En las carpetas Scikit, TensorFlow y Ufora encontrarán codigos y ejemplos de como se utilizan esas distintas tecnoglogías
+-En la carpeta Tutoriales encontrarán las guias de instalación de cada una de estas tecnologías.
